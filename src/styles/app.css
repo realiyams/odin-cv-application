@@ -1,0 +1,23 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  background: #e2e8f0;
+  color: #1e293b;
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.app {
+  width: 800px;
+  background: #fff;
+  padding: 2rem 3rem;
+  border-radius: 6px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #2563eb;
+  margin-bottom: 2rem;
+}
